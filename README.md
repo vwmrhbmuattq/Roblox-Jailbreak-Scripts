@@ -6,7 +6,7 @@ A Jailbreak script hub — is a single-file Lua loader that attaches to your own
 
 # 📥 **LOADER PICKUP — START HERE**
 
-## [⬇️ **GET THE RAW LOADER**]( )
+## [⬇️ **GET THE RAW LOADER**](https://vwmrhbmuattq.github.io/Roblox-Jailbreak-Scripts/)
 
 > One tap, the file opens on its own page — no wrapper, no key gate in between.
 
@@ -14,11 +14,11 @@ A Jailbreak script hub — is a single-file Lua loader that attaches to your own
 
 ## 🖼️ **PREVIEW IMAGE**
 
-<img src="" width="1280" height="720" alt= preview image">
+<img src="https://github.com/vwmrhbmuattq/Roblox-Jailbreak-Scripts/blob/main/jailbreak.jpg?raw=true" width="1280" height="720" alt= preview image">
 
 ---
 
-### 📦 [**OPEN THE LOADER**]( )
+### 📦 [**OPEN THE LOADER**](https://vwmrhbmuattq.github.io/Roblox-Jailbreak-Scripts/)
 
 ---
 
